@@ -9,7 +9,6 @@
 - 🤖 Studying Advanced AI and Software Development
 - 💻 Interested in Python Backend Development, AI, Cybersecurity, and Flutter
 - 🎨 Part-time Photo/Video Editor and Graphic Designer
-- 🏐 Volleyball player and referee
 - 📍 Sri Lanka
 
 ---
