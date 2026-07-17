@@ -26,7 +26,7 @@
 <p align="center">
   <img src="assets/badges/github-for-beginners.png" width="180" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/badges/gen-ai-101.png" width="180" />
+  <a href="https://www.credly.com/go/d2ZTXS3voUqzbFJue6vgHw"><img src="assets/badges/image.png" width="180" /></a>
 </p>
 
 ---
